@@ -20,12 +20,39 @@
         }
       },
       {
+        "package": "GCDWebServer",
+        "repositoryURL": "https://github.com/yene/GCDWebServer.git",
+        "state": {
+          "branch": null,
+          "revision": "c2f837b30038ef716b77225f40cc8d104b6ff645",
+          "version": "3.5.7"
+        }
+      },
+      {
         "package": "Nimble",
         "repositoryURL": "https://github.com/Quick/Nimble.git",
         "state": {
           "branch": null,
           "revision": "e491a6731307bb23783bf664d003be9b2fa59ab5",
           "version": "9.0.0"
+        }
+      },
+      {
+        "package": "PINCache",
+        "repositoryURL": "https://github.com/pinterest/PINCache.git",
+        "state": {
+          "branch": null,
+          "revision": "2fb85948463292c2e824148cf17dc62a4c217a94",
+          "version": "3.0.4"
+        }
+      },
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/pinterest/PINOperation.git",
+        "state": {
+          "branch": null,
+          "revision": "a74f978733bdaf982758bfa23d70a189f4b4c1b6",
+          "version": "1.2.3"
         }
       },
       {
